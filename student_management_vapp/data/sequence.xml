@@ -1,0 +1,8 @@
+<odoo>
+    <record id="seq_student" model="ir.sequence">
+        <field name="name">Student Sequence</field>
+        <field name="code">student.seq</field>
+        <field name="prefix">STU</field>
+        <field name="padding">4</field>
+    </record>
+</odoo>
