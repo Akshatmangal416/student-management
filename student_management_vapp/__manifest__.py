@@ -21,5 +21,5 @@ and payments seamlessly.
     'application': True,
     'auto_install': False,
     'license': 'LGPL-3',
-    'icon': '/student_management_vapp/static/description/icon.png',
+    'icon': '/student_management_vapp/static/description/banner.png',
 }
